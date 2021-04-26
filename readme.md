@@ -26,7 +26,7 @@ Página web com CRUD de médicos
 composer install
 ```
 
- - Após a instalação do composer inicie a aplicação: 
+ - Após a instalação do composer dentro de /App inicie a aplicação: 
 
 ```bash
 php -S localhost:8080 -t public
