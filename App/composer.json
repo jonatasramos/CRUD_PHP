@@ -1,0 +1,19 @@
+{
+    "name": "app/desafio",
+    "description": "CRUD de médicos",
+    "license": "MIT",
+    "authors": [{
+        "name": "Jonatas Ramos",
+        "email": "jonatasalexandriati@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "App\\": "application"
+        }
+    },
+    "require": {
+        "php": ">=7.1.0",
+        "composer/composer": "1.9.1",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
